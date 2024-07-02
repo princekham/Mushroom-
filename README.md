@@ -10,3 +10,15 @@ mushroom chamber - https://grocycle.com/how-to-build-a-mushroom-fruiting-chamber
 mushroom chamber control - https://iserd.net/ijerd142/14-2-22.pdf
 
 CO2 sensor - MH-Z19 CO2 Sensor
+
+
+Growing conditions - https://www.myceliumsociety.com/2021/05/27/growing-oyster-mushrooms.html
+According to above site
+Growing conditions - https://www.gorillagrowtent.com/blogs/news/growing-oyster-mushrooms
+
+Grouwing conditioin - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262279
+According to above site - 200 lux is required for lighting a mushroom room ( 200 lux means that there are 200 lumens of light spread over each square meter of a surface)
+
+- Lux <-> Lumen - >https://lamphq.com/lux-lumens-conversion/
+- 
+
