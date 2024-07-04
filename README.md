@@ -26,3 +26,5 @@ According to above site - 200 lux is required for lighting a mushroom room ( 200
 - Spawn Run Phase: During this initial phase, the CO2 levels should be between 10,000 - 20,000 ppm to promote mycelium growthhttps://www.co2meter.com/blogs/news/co2-mushroom-farminghttps://atlas-scientific.com/blog/why-you-need-a-co2-meter-for-growing-mushrooms/.
 
 - Fruiting Phase: Once the mushrooms begin to form, the CO2 levels should be reduced to no more than 1,000 ppm, with an optimal range between 500 and 800 ppmhttps://www.co2meter.com/blogs/news/co2-mushroom-farminghttps://atlas-scientific.com/blog/why-you-need-a-co2-meter-for-growing-mushrooms/.
+
+- the sensor should be placed from 4-6 ft from the ground 
